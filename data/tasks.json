@@ -1,0 +1,17 @@
+[
+    {
+        "name": "\"pay electricity bill\",",
+        "description": "\"pay the mouthly electricity bill before the due date\",",
+        "priority": "High"
+    },
+    {
+        "name": "\"prepare presentation slides\",",
+        "description": "\"create slides for the upcoming team meetting on project updates\",",
+        "priority": "Medium"
+    },
+    {
+        "name": "\"water the plants\",",
+        "description": "\"water all indoor and outdoor plants in the evening\",",
+        "priority": "Low"
+    }
+]
